@@ -3,3 +3,6 @@
   print "ciao";
   print "buonasera";
 ?>  
+
+<? print "ciao"
+?>
